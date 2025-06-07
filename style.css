@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 2em;
+  background: #f0f0f0;
+}
+
+input,
+button {
+  padding: 0.5em;
+  margin: 0.5em;
+}
+
+#weatherResult {
+  margin-top: 1em;
+  background: white;
+  padding: 1em;
+  border-radius: 8px;
+}
